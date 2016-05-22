@@ -14,4 +14,4 @@ Email to ask to join or more
 
 ### Contact us
 
-[datascientistswithoutbordersto@domain.com](mailto:datascientistswithoutbordersto@domain.com)
+[datascientistswithoutbordersto@gmail.com](mailto:datascientistswithoutbordersto@gmail.com)
