@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are a group of data scientists based in Toronto that are trying to hack to make the world better, if you would like to be one of us!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Email to ask to join or more
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[datascientistswithoutbordersto@domain.com](mailto:datascientistswithoutbordersto@domain.com)
