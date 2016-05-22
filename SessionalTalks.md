@@ -16,3 +16,7 @@ Among other things, we host publicly accessible sessional talks on machine learn
 Email to ask to join or more
 
 [datascientistswithoutbordersto@gmail.com](mailto:datascientistswithoutbordersto@gmail.com)
+
+### Interesting Links in the Data Science Community:
+
+[IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
