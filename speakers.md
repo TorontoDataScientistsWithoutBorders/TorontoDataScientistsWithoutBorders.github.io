@@ -10,11 +10,11 @@ Among other things, we host publicly accessible sessional talks on machine learn
 
 ### Our Speakers:
 
-* Joseph Santarcangelo
+* **Joseph Santarcangelo**
 
 PhD candidate in Electrical Engineering at Ryerson University and Machine Learning Developer at a Toronto Image Processing Startup
 
-* Mark Ebden
+* **Mark Ebden**
 
 D.Phil in Signal Processing and Neural Networks from the University of Oxford
 
@@ -24,9 +24,11 @@ D.Phil in Signal Processing and Neural Networks from the University of Oxford
 
 ### Contact us
 
-Email to ask to join or speak. Our speakers are automatic members that have free access to a range of events.
-
 [datascientistswithoutbordersto@gmail.com](mailto:datascientistswithoutbordersto@gmail.com)
+
+Email to ask to join or speak. 
+
+Our speakers are automatic members that have free access to a range of events.
 
 ### Interesting Links in the Data Science Community:
 
