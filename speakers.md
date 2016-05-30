@@ -8,7 +8,7 @@ We are a group of data scientists based in Toronto that are trying to hack to ma
 
 Among other things, we host publicly accessible sessional talks on machine learning / data science methodologies. Here is a list of our speakers and past talks:
 
-### Our Speakers:
+### Speakers:
 
 * **Joseph Santarcangelo**
 
