@@ -14,6 +14,7 @@ We are a group of data scientists based in Toronto that are trying to hack to ma
 * analytics project for social good
 * accept consulting requests about data analytics tasks
 * career fairs (member free events; $2 non-member)
+* members are authorized to publish blogs on our platform
  
 ### Membership
 
