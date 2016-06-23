@@ -18,8 +18,9 @@ We are a group of data scientists based in Toronto that are trying to hack to ma
  
 ### Membership
 
-* $5 annually
-* speakers (who ever spoke in the year) automatically are members
+* free access to our googledocs for lecture videos, slides, code repos and various machine learning related materials
+* free access to our lectures and workshops
+* 30% discount to our networking events
 
 ### More Information
 
