@@ -20,7 +20,7 @@ We are a group of data scientists based in Toronto that are trying to hack to ma
 
 * free access to our googledocs for lecture videos, slides, code repos and various machine learning related materials
 * free access to our on-site lectures and workshops
-* 30% discount to our networking events
+* 30% discount to our networking galas
 
 ### More Information
 
