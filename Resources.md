@@ -21,6 +21,10 @@ Lecture Notes
 * MIT OCW:
   * [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2010/lecture-notes/)
 
+### Interesting Links in the Data Science Community:
+
+[IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
+
 ### More Information
 
 Email to ask to join or speak
