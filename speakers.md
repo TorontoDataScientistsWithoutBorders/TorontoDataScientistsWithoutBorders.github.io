@@ -28,8 +28,6 @@ D.Phil in Signal Processing and Neural Networks from the University of Oxford
 
 Email to ask to join or speak. 
 
-[//]: <> Our speakers are automatic members that have free access to a range of events.
-
 ### Interesting Links in the Data Science Community:
 
 [IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
