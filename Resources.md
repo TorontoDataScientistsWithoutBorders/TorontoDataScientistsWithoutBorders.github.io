@@ -8,9 +8,9 @@ We are a group of data scientists based in Toronto that are trying to utilize da
 
 # Learning Materials:
 
-### Information Theory
+# Information Theory
 
-Lecture Video
+Video
 ---
 
 Lecture Notes
