@@ -6,9 +6,10 @@ permalink: /about/
 
 We are a group of data scientists based in Toronto that are trying to hack to make the world better, if you would like to be one!
 
-### What we practice
+### What we do
 
-* host publicly accessible monthly talks on machine learning - data science methodologies and applications (member free events; non-member $2/person <- we give a base $$ ($25? depends) + half of this to speaker)
+* host publicly accessible monthly talks on machine learning - data science methodologies and applications 
+[//]: <> (member free events; non-member $2/person <- we give a base $$ ($25? depends) + half of this to speaker)
 * keynote speaker feature events (member discount (50%?) events)
 * host hands-on data hacking workshops (free events)
 * analytics project for social good
