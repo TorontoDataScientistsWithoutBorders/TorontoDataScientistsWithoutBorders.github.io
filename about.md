@@ -13,6 +13,7 @@ We are a group of data scientists based in Toronto that are trying to utilize da
 [//]: <> (member free events; non-member $2/person <- we give a base $$ ($25? depends) + half of this to speaker)
 
 * machine learning / data mining study groups 
+
 * keynote speaker feature events 
 
 [//]: <> (member discount (50%?) events)
@@ -31,9 +32,9 @@ We are a group of data scientists based in Toronto that are trying to utilize da
 
 * members are authorized to publish blogs on our platform
  
-### Membership
+[//]: <> ### Membership
 
-* access to our googledocs for lecture videos, slides, code repos and various machine learning related materials
+[//]: <> * access to our googledocs for lecture videos, slides, code repos and various machine learning related materials
 
 [//]: <> * free access to our on-site lectures and workshops
 
