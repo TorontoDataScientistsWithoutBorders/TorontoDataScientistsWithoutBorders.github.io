@@ -16,13 +16,10 @@ Lecture Video
 Lecture Notes
 ---
 * Berkeley Statistics Department: 
-
-..* [Information Theory and Statistics by Hansen and Yu](http://www.stat.berkeley.edu/~binyu/summer08/L1P1.pdf)
+  * [Information Theory and Statistics by Hansen and Yu](http://www.stat.berkeley.edu/~binyu/summer08/L1P1.pdf)
 
 * MIT OCW:
-
-..* [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2010/lecture-notes/)
-
+  * [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2010/lecture-notes/)
 
 ### More Information
 
