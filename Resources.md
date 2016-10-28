@@ -15,11 +15,14 @@ Video
 
 Lecture Notes
 ---
-* Berkeley Statistics Department: 
+* Berkeley Statistics: 
   * [Information Theory and Statistics by Hansen and Yu](http://www.stat.berkeley.edu/~binyu/summer08/L1P1.pdf)
 
 * MIT OCW:
   * [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2010/lecture-notes/)
+  
+* NYU Computer Science:
+  * [CSC310 Information Theory](https://www.cs.nyu.edu/~roweis/csc310-2005/lectures.html)
 
 ### Interesting Links in the Data Science Community:
 
