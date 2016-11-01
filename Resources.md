@@ -30,6 +30,9 @@ MOOC
 ---
 * Stanford:
   * [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
+  
+* University of Magdeburg Germany:
+  * [Frequent Pattern Mining by Christian Borgelt (Sequence, Tree, Graph)](http://www.borgelt.net/slides/fpm4.pdf)
 
 ### Interesting Links in the Data Science Community:
 
