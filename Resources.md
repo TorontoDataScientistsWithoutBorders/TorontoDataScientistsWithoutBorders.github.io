@@ -24,6 +24,13 @@ Lecture Notes
 * NYU Computer Science:
   * [CSC310 Information Theory](https://www.cs.nyu.edu/~roweis/csc310-2005/lectures.html)
 
+# Mining Frequent Itemsets
+
+MOOC
+---
+* Stanford:
+  * [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
+
 ### Interesting Links in the Data Science Community:
 
 [IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
