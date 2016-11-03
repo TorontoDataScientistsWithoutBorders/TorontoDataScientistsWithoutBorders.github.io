@@ -22,8 +22,8 @@ Lecture Notes
   * [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2010/lecture-notes/)
   
 * NYU / UToronto Computer Science:
-  * [CSC310 Information Theory NYU](https://www.cs.nyu.edu/~roweis/csc310-2005/lectures.html)
-  * [CSC310 Information Theory UToronto](http://www.cs.toronto.edu/~radford/csc310/index.html)
+  * [CSC310 Information Theory NYU (Sam Roweis)](https://www.cs.nyu.edu/~roweis/csc310-2005/lectures.html)
+  * [CSC310 Information Theory UToronto (Radford Neal)](http://www.cs.toronto.edu/~radford/csc310/index.html)
 
 # Mining Frequent Itemsets
 
