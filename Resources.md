@@ -24,6 +24,9 @@ Lecture Notes
 * NYU / UToronto Computer Science:
   * [CSC310 Information Theory NYU (Sam Roweis)](https://www.cs.nyu.edu/~roweis/csc310-2005/lectures.html)
   * [CSC310 Information Theory UToronto (Radford Neal)](http://www.cs.toronto.edu/~radford/csc310/index.html)
+  
+* Information Theory and Machine Learning:
+  * [Dissertation Durham University](https://community.dur.ac.uk/d.p.kaye/dissertation/dissertation.pdf)
 
 # Mining Frequent Itemsets
 
