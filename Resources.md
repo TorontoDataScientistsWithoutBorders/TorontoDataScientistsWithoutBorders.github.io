@@ -28,6 +28,12 @@ Lecture Notes
 * Information Theory and Machine Learning:
   * [Dissertation Durham University](https://community.dur.ac.uk/d.p.kaye/dissertation/dissertation.pdf)
 
+Application on Machine Learning
+---
+* Entropy and Decision Tree
+  * feature selection
+  
+  
 # Mining Frequent Itemsets
 
 MOOC
