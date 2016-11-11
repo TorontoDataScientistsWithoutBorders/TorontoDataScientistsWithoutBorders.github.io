@@ -32,6 +32,7 @@ Application on Machine Learning
 ---
 * Entropy and Decision Tree
   * feature selection
+  * [MIT Sloan - Prediction: Machine Learning and Statistics](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec08.pdf)
   
   
 # Mining Frequent Itemsets
