@@ -46,6 +46,12 @@ MOOC
 * University of Magdeburg Germany:
   * [Frequent Pattern Mining by Christian Borgelt (Sequence, Tree, Graph)](http://www.borgelt.net/slides/fpm4.pdf)
 
+# Data Visualization
+
+Charts in R
+---
+* [googleVis](https://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html)
+
 ### Interesting Links in the Data Science Community:
 
 [IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
