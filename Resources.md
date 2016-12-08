@@ -52,6 +52,12 @@ Charts in R
 ---
 * [googleVis](https://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_examples.html)
 
+# Optimization and Operation Research
+
+Integer Programming in R
+---
+* [Field Guide to ILP Solvers in R for Conservation Prioritization](http://strimas.com/prioritization/ilp-field-guide/)
+
 ### Interesting Links in the Data Science Community:
 
 [IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
