@@ -58,6 +58,17 @@ Integer Programming in R
 ---
 * [Field Guide to ILP Solvers in R for Conservation Prioritization](http://strimas.com/prioritization/ilp-field-guide/)
 
+# Data Scientists Requirements
+
+Work Flow
+---
+* identify business cases
+* ingest massive data (structured and unstructured) and transform and store them into variety of data stores
+* deploy models and algorihtm in production across channels and platforms
+* Employ model and algorithm testing / validation strategies - (e.g. multi-variate testing, A/B testing for model effectiveness)
+* Draft detailed documentation: data sources, models, testing plans
+* Present and implement change
+
 ### Interesting Links in the Data Science Community:
 
 [IEEE 2016 Conference on Data Science and Advanced Analytics](https://www.ualberta.ca/~dsaa16/ataglance.html)
