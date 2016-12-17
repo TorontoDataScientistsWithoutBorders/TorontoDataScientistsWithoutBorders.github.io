@@ -58,6 +58,10 @@ Integer Programming in R
 ---
 * [Field Guide to ILP Solvers in R for Conservation Prioritization](http://strimas.com/prioritization/ilp-field-guide/)
 
+Application- Assignment / Matching Problem
+---
+* [Dormitory Assignment Optimization](https://www.math.cmu.edu/~af1p/Teaching/OR2/Projects/P5/Dorm%20Assignment.pdf)
+
 # Data Scientists Requirements
 
 Work Flow
