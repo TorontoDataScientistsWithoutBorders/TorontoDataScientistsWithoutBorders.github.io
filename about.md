@@ -1,25 +1,16 @@
 ---
+bg: "owl.jpg"
 layout: page
-title: About
+title: "About"
+crawlertitle: "Why and how this blog was created"
 permalink: /about/
+summary: "About this blog"
+active: about
 ---
 
-We are a group of data scientists based in Toronto that are trying to utilize data analytics to solve real-world problems, if you would like to be one!
+We are an active, friendly community,...
 
-### What we do
+This blog was created using the (awersome) static site generator [Jekyll][jekyll], and it is base on the theme found [here][jekyll-new].
 
-* host publicly accessible monthly talks on machine learning - data science methodologies and applications 
-* machine learning / data mining study groups 
-* keynote speaker feature events 
-* host hands-on data hacking workshops 
-* analytics project for social good
-* career fairs 
-* members are authorized to publish blogs on our platform
-
-### More Information
-
-Email to ask to join or speak
-
-### Contact us
-
-[datascientistswithoutbordersto@gmail.com](mailto:datascientistswithoutbordersto@gmail.com)
+[jekyll-new]: https://github.com/jglovier/jekyll-new
+[jekyll]: http://jekyllrb.com/

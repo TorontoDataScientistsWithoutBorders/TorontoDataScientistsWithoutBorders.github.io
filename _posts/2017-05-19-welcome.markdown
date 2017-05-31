@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome!"
+crawlertitle: "This is our first post"
+summary: "Welcome post"
+date:   2017-05-19 23:09:47 +0700
+categories: posts
+tags: 'Info'
+author: Felipe
+---
+This group was created by Yue, it has been running since ... and we havev been exploring Data Science techniques since April 2015.
+
+
+Check out our [github][the-gh] for our current projects. If you have questions, you can ask them on [the-email][the-email].
+
+[the-gh]: http://github.com/
+[the-email]:  theemail@dontknow.com
