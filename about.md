@@ -13,7 +13,7 @@ We are an active, friendly community of data scientists based in Toronto. Trying
 ### What we do:
 
 * Host publicly accessible monthly talks on machine learning - data science methodologies and applications. 
-* Machine learning / Data mining study groups. 
+* Machine Learning / Data Mining study groups. 
 * Keynote speaker feature events. 
 * Host hands-on data hacking workshops. 
 * Analytics project for social good.
@@ -29,8 +29,8 @@ Email to ask to join or speak.
 ### Our members
 
 * Yue 
-* Werner
-* Felipe
+* [Werner Chao](https://blog.nycdatascience.com/author/wernerchao/)
+* [Felipe Perez](https://scy1505.github.io/)
 
 ### Contact us
 
