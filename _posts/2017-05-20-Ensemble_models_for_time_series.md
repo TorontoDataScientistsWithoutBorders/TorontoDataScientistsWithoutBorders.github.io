@@ -1,5 +1,5 @@
 ---
-bg: "tools.jpg"
+bg: "owl.jpg"
 layout: post
 title:  "Ensemble models for time series"
 crawlertitle: "Ensemble models"
