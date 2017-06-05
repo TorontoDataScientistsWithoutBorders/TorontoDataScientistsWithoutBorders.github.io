@@ -29,7 +29,6 @@ Email to ask to join or speak.
 ### Our members
 
 * Yue 
-* [Werner Chao](https://blog.nycdatascience.com/author/wernerchao/)
 * [Felipe Perez](https://scy1505.github.io/)
 
 ### Contact us
