@@ -1,7 +1,7 @@
 ---
 bg: "owl.jpg"
 layout: post
-title:  "Pictures from last's week featured talk."
+title:  "Pictures from last week's featured talk."
 crawlertitle: "Feature Speaker"
 summary: "Pictures from the talk on June 2nd"
 date:   2017-06-05 11:09:47 +0700
