@@ -26,10 +26,7 @@ Our list of past and future events can be found in our [meetup site](https://www
 
 Email to ask to join or speak.
 
-### Our members
 
-* Yue 
-* [Felipe Perez](https://scy1505.github.io/)
 
 ### Contact us
 
