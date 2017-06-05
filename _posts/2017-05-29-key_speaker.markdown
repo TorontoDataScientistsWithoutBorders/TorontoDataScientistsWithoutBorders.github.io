@@ -17,4 +17,3 @@ In the seminar, he will teach us spectral clustering and clustering validation a
 
 
 You can sign up for this event [here](https://www.meetup.com/Toronto-Machine-Learning-Book-Club/events/240076924/).
-
