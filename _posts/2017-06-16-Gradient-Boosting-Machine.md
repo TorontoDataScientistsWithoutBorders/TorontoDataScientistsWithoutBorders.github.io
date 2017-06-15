@@ -1,14 +1,26 @@
-Gradient Boosting = Gradient + Boosting
 ---
-## 1. Boosting
-    sequentially adding weak learners at each stage to compensate existing weak learners
-
-## 2. Gradient
-    identify shortcomings of exisiting weak learners
-
-
-Algorithm
+layout: post
+title:  "Gradient Boosting"
+crawlertitle: "= Gradient + Boosting"
+summary: "We summarized the ideas behind gradient boosting"
+date:   2017-06-16 11:09:47 +0700
+categories: posts
+tags: ['Meetings Resources and summary']
+author: Yue
 ---
+
+Gradient boosting is a popular idea to imrpove the efficiency of weak learners.
+
+
+---
+1. Boosting: Sequentially adding weak learners at each stage to compensate existing weak learners.
+
+2. Gradient: Identify shortcomings of exisiting weak learners.
+
+---
+
+## Algorithm
+
 * At iteration i: model is $$F_i(x_1)$$, response is $$y_1$$, residual is $$y_1 - F_i(x_1)$$
 
 (1) let $$h_i(x_1)$$ = $$y_1 - F_i(x_1)$$
