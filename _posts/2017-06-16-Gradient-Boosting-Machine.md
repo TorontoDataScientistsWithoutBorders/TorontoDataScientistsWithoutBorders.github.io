@@ -17,7 +17,10 @@ Algorithm
 
 (3) Gradient concept: 
         
-        Loss function $$L(y, F(x)) = (y-F(x))^2$$, 
-        Cost function $$J = \sum L(y_i, F(x_i))$$, treat $$F(x_i)$$ as a parameter and take derivatives:
-        $$\frac{dJ}{dF(x_i)} = F(x_i) - y_i$$, which is the residual - shortcoming, hence update $$F(x_i)$$ by the gradient:
-        $$F(x_i) = F(x_i) + \frac{dJ}{dF(x_i)} = F(x_i) - y_i$$
+Loss function $$L(y, F(x)) = (y-F(x))^2$$, 
+
+Cost function $$J = \sum L(y_i, F(x_i))$$, treat $$F(x_i)$$ as a parameter and take derivatives:
+
+$$\frac{dJ}{dF(x_i)} = F(x_i) - y_i$$, which is the residual - shortcoming, hence update $$F(x_i)$$ by the gradient:
+
+$$F(x_i) = F(x_i) + \frac{dJ}{dF(x_i)} = F(x_i) - y_i$$
