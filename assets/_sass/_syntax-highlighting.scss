@@ -1,7 +1,10 @@
 /* Code Highlight
 ------------------- 
-Color #000066 use to be #2aa198 but gives problem for number sub-indices
 */
+
+$color-red: #4c0000; /* #2aa198 */
+$color-try: #657b83; /* #27e5df; */
+
 .hll {
     background-color: #ffc;
 }
@@ -11,25 +14,25 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
 } /* Comment */
 /* .err { color: #dc322f }Error */
 .g {
-    color: #657b83;
+    color: $color-try;
 } /* Generic */
 .k {
     color: #859900;
 } /* Keyword */
 .l {
-    color: #657b83;
+    color: $color-try;
 } /* Literal */
 .n {
     color: #586e75;
 } /* Name */
 .o {
-    color: #657b83;
+    color: $color-try;
 } /* Operator */
 .x {
-    color: #657b83;
+    color: $color-try;
 } /* Other */
 .p {
-    color: #657b83;
+    color: $color-try;
 } /* Punctuation */
 .cm {
     color: #93a1a1;
@@ -48,34 +51,34 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
     font-style: italic;
 } /* Comment.Special */
 .gd {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Deleted */
 .ge {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Emph */
 .gr {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Error */
 .gh {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Heading */
 .gi {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Inserted */
 .go {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Output */
 .gp {
     color: #c65d09;
 } /* Generic.Prompt */
 .gs {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Strong */
 .gu {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Subheading */
 .gt {
-    color: #657b83;
+    color: $color-try;
 } /* Generic.Traceback */
 .kc {
     color: #859900;
@@ -96,16 +99,16 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
     color: #859900;
 } /* Keyword.Type */
 .ld {
-    color: #657b83;
+    color: $color-try;
 } /* Literal.Date */
 .m {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number */
 .s {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String */
 .na {
-    color: #657b83;
+    color: $color-try;
 } /* Name.Attribute */
 .nb {
     color: #268bd2;
@@ -129,13 +132,13 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
     color: #268bd2;
 } /* Name.Function */
 .nl {
-    color: #657b83;
+    color: $color-try;
 } /* Name.Label */
 .nn {
     color: #b58900;
 } /* Name.Namespace */
 .nx {
-    color: #657b83;
+    color: $color-try;
 } /* Name.Other */
 .py {
     color: #268bd2;
@@ -153,49 +156,49 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
     color: #fdf6e3;
 } /* Text.Whitespace */
 .mf {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number.Float */
 .mh {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number.Hex */
 .mi {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number.Integer */
 .mo {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number.Oct */
 .sb {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Backtick */
 .sc {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Char */
 .sd {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Doc */
 .s2 {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Double */
 .se {
     color: #cb4b16;
 } /* Literal.String.Escape */
 .sh {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Heredoc */
 .si {
     color: #cb4b16;
 } /* Literal.String.Interpol */
 .sx {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Other */
 .sr {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Regex */
 .s1 {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Single */
 .ss {
-    color: #000066;
+    color: $color-red;
 } /* Literal.String.Symbol */
 .bp {
     color: #268bd2;
@@ -211,5 +214,5 @@ Color #000066 use to be #2aa198 but gives problem for number sub-indices
     color: #268bd2;
 } /* Name.Variable.Instance */
 .il {
-    color: #000066;
+    color: $color-red;
 } /* Literal.Number.Integer.Long */

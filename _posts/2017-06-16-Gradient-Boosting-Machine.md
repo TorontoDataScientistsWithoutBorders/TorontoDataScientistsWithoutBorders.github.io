@@ -35,6 +35,6 @@ Cost function $$J = \sum L(y_i, F(x_i))$$, treat $$F(x_i)$$ as a parameter and t
 
 $$\frac{dJ}{dF(x_i)} = F(x_i) - y_i$$, which is the negative residual - shortcoming, hence update $$F(x_i)$$ by the gradient:
 
-$$F(x_i) = F(x_i) - \frac{dJ}{dF(x_i)} = F(x_i) - (F(x_i) - y_i)$$
 
+$$F(x_i) = F(x_i) - \frac{dJ}{dF(x_i)} = F(x_i) - (F(x_i) - y_i)$$
 
