@@ -9,7 +9,7 @@ tags: ['Meetings Resources and summary']
 author: Yue
 ---
 
-Gradient boosting is a popular idea to imrpove the efficiency of weak learners.
+Gradient boosting is a popular idea to improve the efficiency of weak learners.
 
 
 ---
