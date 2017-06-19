@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "SQL for Moving Average - (In-database Analytics)"
+crawlertitle: "sql analytics"
+summary: "We explore time series analytics possiblitiy with SQL"
+date:   2017-06-18 11:09:47 +0700
+categories: posts
+tags: ['Analytics Posts']
+author: Yue
+---
+
+
 MySQL - 7 Day Moving Average
 ---
       SELECT 
