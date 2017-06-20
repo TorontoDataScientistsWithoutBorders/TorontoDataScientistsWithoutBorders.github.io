@@ -12,6 +12,14 @@ author: Yue
 1. Geometry of Linear Equations
 ---
 
+## Matrix - Vector Multiplication: $$Ax$$
+
+| 2 | -1 |
+|---|:--:|
+|-1 | 2  | 
+
+
+
 ## References:
 
 #### Video Lectures: 
