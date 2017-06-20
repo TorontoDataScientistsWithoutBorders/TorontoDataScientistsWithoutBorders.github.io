@@ -11,6 +11,7 @@ author: Yue
 
 Related Theories
 ---
+
 ## 1. Linear Algebra
 
-### * SVD
+* SVD
