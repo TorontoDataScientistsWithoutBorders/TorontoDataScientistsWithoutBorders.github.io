@@ -10,10 +10,17 @@ author: Yue
 ---
 
 
-MySQL - 7 Day Moving Average
----
+
+
+This short MySQL script shows an aproach to compute the moving average.
+
+
+#### MySQL - 7 Day Moving Average
+
+```SQL
       SELECT 
       FROM signups
       JOIN signups as sigups_past 
       ON signups_past.date between signup.date - 6 and signups.date
       GROUP BY 1, 2
+```
