@@ -1,3 +1,14 @@
+---
+layout: post
+title:  Linear Algebra Fundamentals
+crawlertitle: "linear algebra fundamentals"
+summary: "fundamental theory of linear algebra"
+date:   2017-06-20 18:48:47 +0700
+categories: posts
+tags: 'Linear Algebra Series'
+author: Yue
+---
+
 1. Geometry of Linear Equations
 ---
 
