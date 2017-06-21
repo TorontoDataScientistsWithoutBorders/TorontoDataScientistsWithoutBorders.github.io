@@ -18,7 +18,7 @@ author: Yue
 |---|:--:|
 |-1 | 2  | 
 
-```{math: latex}
+```math
    \begin{bmatrix}
         x_{11}       & x_{12} & x_{13} & \dots & x_{1n} \\
         x_{21}       & x_{22} & x_{23} & \dots & x_{2n} \\
