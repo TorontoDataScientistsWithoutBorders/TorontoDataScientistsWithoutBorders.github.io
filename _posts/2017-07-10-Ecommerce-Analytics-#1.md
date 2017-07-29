@@ -1,6 +1,6 @@
 General problems and strategies in Database Marketing
 ---
-1. Customer retention, which sometimes can be even more important 
+1. Customer retention, which sometimes can be even more important than customer acquisition. For example, according to research, a 5% increase in customer retention could increase company profitability from 25% to 85%
 
 Issues Tackeld in this post:
 ---
@@ -10,7 +10,7 @@ Issues Tackeld in this post:
 
 Reference
 ---
-[How to Model Your Cusotmers' Lifetime Value](http://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
+<a name="ref1">[1]</a>: [How to Model Your Cusotmers' Lifetime Value](http://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
 
 [Online Retail Data Set](http://archive.ics.uci.edu/ml/datasets/online+retail)
 
