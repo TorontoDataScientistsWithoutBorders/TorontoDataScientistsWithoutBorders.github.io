@@ -1,5 +1,6 @@
 General problems and strategies in Database Marketing
 ---
+1. Customer retention, which sometimes can be even more important 
 
 Issues Tackeld in this post:
 ---
@@ -7,6 +8,9 @@ Issues Tackeld in this post:
 
 
 
+Reference
+---
+[How to Model Your Cusotmers' Lifetime Value](http://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
 
 [Online Retail Data Set](http://archive.ics.uci.edu/ml/datasets/online+retail)
 
