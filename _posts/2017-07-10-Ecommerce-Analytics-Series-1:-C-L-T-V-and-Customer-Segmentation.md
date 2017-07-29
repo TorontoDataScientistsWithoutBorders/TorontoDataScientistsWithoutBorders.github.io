@@ -13,12 +13,13 @@ General problems and strategies in Database Marketing
 ---
 1. Customer retention, which sometimes can be even more important than customer acquisition. For example, according to research, a 5% increase in customer retention could increase company profitability from 25% to 85%. <sup>[\[1\]](#ref1)</sup>
 
-Issues Tackeld in this post using 
+Issues Tackeld in this post using [an online retail dataset](http://archive.ics.uci.edu/ml/datasets/online+retail)<sup>[\[1\]](#ref2)</sup>
 ---
 1. How predicting customer lifetime values helps you define customer segmentation - hence derives segment specific marketing strategies
 
 (1) Prelimiary data exploration using basic RFM 
-__
+___
+
 
 
 
@@ -26,7 +27,7 @@ Reference
 ---
 <a name="ref1">[1]</a>: [How to Model Your Cusotmers' Lifetime Value](http://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
 
-[Online Retail Data Set](http://archive.ics.uci.edu/ml/datasets/online+retail)
+<a name="ref2">[2]</a>:[Online Retail Data Set](http://archive.ics.uci.edu/ml/datasets/online+retail)
 
 [“Counting Your Customers” the Easy Way: An Alternative to the Pareto/NBD Model](http://mktg.uni-svishtov.bg/ivm/resources/Counting_Your_Customers.pdf)
 
