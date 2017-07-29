@@ -17,6 +17,9 @@ Issues Tackeld in this post using
 ---
 1. How predicting customer lifetime values helps you define customer segmentation - hence derives segment specific marketing strategies
 
+(1) Prelimiary data exploration using basic RFM 
+___
+
 
 
 Reference
