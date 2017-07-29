@@ -2,9 +2,9 @@ General problems and strategies in Database Marketing
 ---
 1. Customer retention, which sometimes can be even more important than customer acquisition. For example, according to research, a 5% increase in customer retention could increase company profitability from 25% to 85%. <sup>[\[1\]](#ref1)</sup>
 
-Issues Tackeld in this post:
+Issues Tackeld in this post using 
 ---
-1. Customer Segmentation - hence segment specific marketing strategies
+1. How predicting customer lifetime values helps you define customer segmentation - hence derives segment specific marketing strategies
 
 
 
