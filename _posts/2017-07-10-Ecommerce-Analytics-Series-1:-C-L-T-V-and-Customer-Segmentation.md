@@ -20,20 +20,23 @@ Issues Tackeld in this post using [an online retail dataset](http://archive.ics.
 (1) Prelimiary data exploration using basic **RFM** implementation in Python
 ___
 * **R** means **Recency**: it is the time from the last transaction of the customer to current time
-* 
+* **F** means **Frequency**: it is how many already made transactions the customer has had overall  
+* **M** means **Monetary value**: it is how much money the customer has contributed overall 
 
 ```
-# import dataset
+# import online retail dataset
 
 import pandas as pd
 import datetime as dt
 
-xl = pd.ExcelFile("Online_Retail.xlsx")
-df = xl.parse("Online Retail")
+df = pd.read_excel("Online_Retail.xlsx", sheetnames = "Online Retail", converters={'CustomerID': str})
 
-
+df['ParsedInvoiceDate'] = df['InvoiceDate'].apply(lambda x: dt.datetime.strftime(x, "%Y-%m-%d"))
+print df.dtypes
+df.head()
 ```
 
+![Alt text](https://github.com/TorontoDataScientistsWithoutBorders/TorontoDataScientistsWithoutBorders.github.io/blob/master/assets/images/online_retail_imported.png "Optional title")
 
 
 
