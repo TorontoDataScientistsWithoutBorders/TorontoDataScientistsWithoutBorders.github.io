@@ -60,6 +60,7 @@ data.rename(columns = {"ParsedInvoiceDateFrequency": "Frequency",
 data.head()
 ```
 
+<img src="/assets/images/rfm_df.png"/> 
 
 
 Reference
