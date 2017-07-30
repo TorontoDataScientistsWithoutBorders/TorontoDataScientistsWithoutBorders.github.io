@@ -37,6 +37,28 @@ df.head()
 
 <img src="/assets/images/online_retail_imported.png"/> 
 
+```
+df['ParsedInvoiceDateFrequency'] = df['InvoiceDate'].apply(lambda x: pd.to_datetime(x.date(), format="%Y-%m-%d"))
+df['ParsedInvoiceDateRecency'] = df['InvoiceDate'].apply(lambda x: pd.to_datetime(x.date(), format="%Y-%m-%d"))
+
+now = dt.datetime.now()
+now = now.strftime("%Y-%m-%d")
+
+data['Sales'] = data['UnitPrice']*data['Quantity']
+
+# Group transactions into customer: 
+# frequency(how many unique days a transaction happened), recency(last transaction until today), money(sum of all spend)
+data = data.groupby(['CustomerID']).agg({'ParsedInvoiceDateFrequency': lambda x: x.nunique(),
+                                         'ParsedInvoiceDateRecency': lambda x: pd.to_datetime(now, format="%Y-%m-%d") -   
+                                         pd.to_datetime(x.dt.date.max(), format = "%Y-%m-%d"),
+                                         'Sales': lambda x: sum(x)
+                                        })
+data.rename(columns = {"ParsedInvoiceDateFrequency": "Frequency", 
+                       "ParsedInvoiceDateRecency": "Recency",
+                       "Sales": "Monetary"
+                      }, inplace=True)
+data.head()
+```
 
 
 
