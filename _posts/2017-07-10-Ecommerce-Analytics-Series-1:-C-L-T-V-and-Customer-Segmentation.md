@@ -36,7 +36,7 @@ print df.dtypes
 df.head()
 ```
 
-<img src="//TorontoDataScientistsWithoutBorders.github.io/assets/images/online_retail_imported.png" alt=""> </div>
+<img src="/assets/images/online_retail_imported.png"/> 
 
 
 
