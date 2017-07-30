@@ -36,7 +36,7 @@ print df.dtypes
 df.head()
 ```
 
-![Alt text](https://github.com/TorontoDataScientistsWithoutBorders/TorontoDataScientistsWithoutBorders.github.io/blob/master/assets/images/online_retail_imported.png "Optional title")
+![](https://github.com/TorontoDataScientistsWithoutBorders/TorontoDataScientistsWithoutBorders.github.io/blob/master/assets/images/online_retail_imported.png)
 
 
 
