@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Ecommerce Analytics - Series 1: \n CLTV and Customer Segmentation"
+title:  "Ecommerce Analytics - Series 1: 
+
+CLTV and Customer Segmentation"
 crawlertitle: "cltv&segmentation"
 summary: "We explore using data marketing for cltv prediction and customer segmentation"
 date:   2017-07-29 11:09:47 +0700
