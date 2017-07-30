@@ -30,9 +30,7 @@ import pandas as pd
 import datetime as dt
 
 df = pd.read_excel("Online_Retail.xlsx", sheetnames = "Online Retail", converters={'CustomerID': str})
-
 df['ParsedInvoiceDate'] = df['InvoiceDate'].apply(lambda x: dt.datetime.strftime(x, "%Y-%m-%d"))
-print df.dtypes
 df.head()
 ```
 
