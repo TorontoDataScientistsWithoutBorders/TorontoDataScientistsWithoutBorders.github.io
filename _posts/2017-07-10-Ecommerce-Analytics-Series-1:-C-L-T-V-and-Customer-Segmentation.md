@@ -17,9 +17,9 @@ Issues Tackeld in this post using [an online retail dataset](http://archive.ics.
 ---
 1. How predicting customer lifetime values helps you define customer segmentation - hence derives segment specific marketing strategies
 
-(1) Prelimiary data exploration using basic *RFM* implementation in Python
+(1) Prelimiary data exploration using basic **RFM** implementation in Python
 ___
-* *R* means *Recency*: it is the time from the last transaction of the customer to current time
+* **R** means **Recency**: it is the time from the last transaction of the customer to current time
 * 
 
 ```
