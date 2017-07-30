@@ -35,7 +35,8 @@ df['ParsedInvoiceDate'] = df['InvoiceDate'].apply(lambda x: dt.datetime.strftime
 print df.dtypes
 df.head()
 ```
-<img src="TorontoDataScientistsWithoutBorders.github.io/assets/images/online_retail_imported.png" alt=""> </div>
+
+<img src="//TorontoDataScientistsWithoutBorders.github.io/assets/images/online_retail_imported.png" alt=""> </div>
 
 
 
