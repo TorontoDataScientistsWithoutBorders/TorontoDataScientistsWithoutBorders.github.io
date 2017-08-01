@@ -15,3 +15,6 @@ Business Problems
 ___
 
    - analytics solution: [Mining Brand Perceptions from Twitter Social Networks](http://cs.iit.edu/~culotta/pubs/culotta16mining.pdf)
+   
+#### New Product Introduction
+___
