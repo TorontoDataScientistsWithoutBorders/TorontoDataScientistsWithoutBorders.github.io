@@ -14,4 +14,4 @@ Business Problems
 * Brand Managment - rebranding
 ___
 
-- analytics solution: [Mining Brand Perceptions from Twitter Social Networks](http://cs.iit.edu/~culotta/pubs/culotta16mining.pdf)
+  - analytics solution: [Mining Brand Perceptions from Twitter Social Networks](http://cs.iit.edu/~culotta/pubs/culotta16mining.pdf)
