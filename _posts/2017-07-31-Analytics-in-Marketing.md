@@ -8,3 +8,10 @@ categories: posts
 tags: ['Analytics Posts']
 author: Yue
 ---
+
+Business Problems
+---
+* Brand Managment - rebranding
+___
+
+    - analytics solution: [Mining Brand Perceptions from Twitter Social Networks](http://cs.iit.edu/~culotta/pubs/culotta16mining.pdf)
