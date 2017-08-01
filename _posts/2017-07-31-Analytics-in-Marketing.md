@@ -18,3 +18,5 @@ ___
    
 #### New Product Introduction
 ___
+
+   - analytics solution: [A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing)
