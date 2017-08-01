@@ -11,7 +11,7 @@ author: Yue
 
 Business Problems
 ---
-* Brand Managment - rebranding
+#### Brand Managment - rebranding
 ___
 
    - analytics solution: [Mining Brand Perceptions from Twitter Social Networks](http://cs.iit.edu/~culotta/pubs/culotta16mining.pdf)
