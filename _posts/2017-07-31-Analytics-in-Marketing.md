@@ -9,7 +9,7 @@ tags: ['Analytics Posts']
 author: Yue
 ---
 
-### Business Problems
+## Business Problems
 ___
 
 Brand Managment - rebranding
