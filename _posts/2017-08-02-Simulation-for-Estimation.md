@@ -14,6 +14,16 @@ ___
 
 1. Why Simulation Methods and When
 ---
+* (1) Simulation versus Asymptotic Assumed Optimization Methods
+
+  - the latter uses asymptotic assumptions in population properties) for closed-form solutions while the former uses available observed available samples
+
+* (2) Concept of Simulation
+
+  - you have observed realizations from some target distribution
+  - you try to build a pseudo-random number generator that mimics the underlying generation process of the observed realization
+
+
 
 2. Non-parametric Bayesian versus MCMC
 ---
