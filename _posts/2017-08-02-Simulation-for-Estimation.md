@@ -9,3 +9,13 @@ tags: ['Bayesian and Simulation']
 author: Yue
 ---
 
+# Topic Outline
+___
+
+1. Why Simulation Methods and When
+---
+
+2. Non-parametric Bayesian versus MCMC
+---
+
+
