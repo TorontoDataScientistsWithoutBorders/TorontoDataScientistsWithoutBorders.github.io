@@ -23,9 +23,15 @@ ___
   - you have observed realizations from some target distribution
   - you try to build a pseudo-random number generator that mimics the underlying generation process of the observed realization
 
+* (3) Types of Simulation
+
+  - Resampling: bootstrap, jacknife, permutation
 
 
 2. Non-parametric Bayesian versus MCMC
 ---
 
 
+Reference
+---
+(1)[http://www.unc.edu/~carsey/teaching/ICPSR-2011/Sim%20Slides%202%20Handout.pdf]
