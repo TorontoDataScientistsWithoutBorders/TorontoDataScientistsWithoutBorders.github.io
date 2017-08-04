@@ -36,4 +36,4 @@ Reference
 ---
 (1)[http://www.unc.edu/~carsey/teaching/ICPSR-2011/Sim%20Slides%202%20Handout.pdf]
 
-(2) (Simulation-based Estimation)[http://www.people.virginia.edu/~sns5r/resint/simulstf/simuljelt.pdf]
+(2) [Simulation-based Estimation](http://www.people.virginia.edu/~sns5r/resint/simulstf/simuljelt.pdf)
