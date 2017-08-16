@@ -31,6 +31,22 @@ ___
 2. Non-parametric Bayesian versus MCMC
 ---
 
+# Resampling
+___
+
+Parametric Bootstrap
+---
+
+Bayesian Bootstrap
+---
+
+* purpose: estimate distribution for parameter
+
+* Example:
+(1) observed samples: array([ 3.34135494,  4.03678023,  0.4305536 ,  4.11717223]), which is actually from exponential(7)
+(2) plot density
+(3) need to simulation distribution of mean
+
 
 Reference
 ---
