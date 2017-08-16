@@ -32,6 +32,14 @@ Existing Projects
   
 2. automatic scraping tweets by election ward and store in 
 
+Jam August 19, 2017:
+
+* projects:
+ 1. 
+ 2.
+ 3.
+
+
 ### More Information
 
 Our list of past and future events can be found in our [meetup site](https://www.meetup.com/Toronto-Machine-Learning-Book-Club/).
