@@ -22,6 +22,12 @@ Existing Projects
 ---
 
 1. build toronto election ward demo database 
+___
+  * project lead:
+  * teammate:
+  * capstone date:
+  * code base / project page:
+  
 2. automatic scraping tweets by election ward and store in 
 
 ### More Information
