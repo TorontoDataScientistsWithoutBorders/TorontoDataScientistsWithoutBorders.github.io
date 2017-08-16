@@ -14,9 +14,11 @@ Project Jam Weekend
 ---
 On our project jam weekends, you are welcome to drop by and:
 
-* pitch your project: find collaboration/teaming opportunity
+* pitch machine learning/data mining project you are working on: find collaboration/teaming opportunity
 * short-form present your project at the end of the session
 * decide the capstone/presentation date for the project and a broader community of audiences/potential business partners will be invited to attend 
+
+or join 
 
 Existing Projects
 ---
