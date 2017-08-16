@@ -22,7 +22,7 @@ Existing Projects
 ---
 
 1. build toronto election ward demo database 
-___
+
   * project lead:
   * teammate:
   * capstone date:
