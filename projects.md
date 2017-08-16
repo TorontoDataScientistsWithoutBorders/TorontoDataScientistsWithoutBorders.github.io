@@ -30,7 +30,7 @@ Existing Projects
   * capstone date:
   * code base / project page:
   
-2. automatic scraping tweets by election ward and store in 
+2. automatic scraping tweets by election ward and store in database
 
 Jam Days 
 ---
