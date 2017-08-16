@@ -32,7 +32,9 @@ Existing Projects
   
 2. automatic scraping tweets by election ward and store in 
 
-Jam August 19, 2017:
+Jam Days 
+---
+August 19, 2017:
 
 * projects:
  1. 
