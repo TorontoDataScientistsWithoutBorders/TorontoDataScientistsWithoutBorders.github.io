@@ -59,6 +59,11 @@ Bayesian Bootstrap
 (2) plot density
 (3) need to simulation distribution of mean
 
+# Case Studies
+
+1. Click-through Rate
+---
+(Kaggle Click-through Rate Prediction)[https://www.kaggle.com/c/avazu-ctr-prediction]
 
 Reference
 ---
