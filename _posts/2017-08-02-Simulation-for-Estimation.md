@@ -20,7 +20,8 @@ author: Yue
   - This belief is based on individuals and different observers may come out different beliefs
   - Individuals' different beliefs do not change what the outcome will come out to be
   - You gather evidences to form and update beliefs
-  - Prior Probability
+  - Prior Probability: initial belief $P(A)$
+  - Posterior Probability: updated belief given evidences $P(A|X)$
 
 
 2. Why Simulation Methods and When
