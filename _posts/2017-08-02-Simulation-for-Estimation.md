@@ -17,8 +17,9 @@ author: Yue
 * **Frequentist:** long term frequency of event happening in recurring experiment
 
 * **Bayesian:** a measure of belief in confidence about an event happening
-  - This belief is based on individuals and different observers may come out different belief
-  - Individuals' different belief do not change what the outcome will come out to be
+  - This belief is based on individuals and different observers may come out different beliefs
+  - Individuals' different beliefs do not change what the outcome will come out to be
+  - You gather evidences to form beliefs
   - Prior Probability
 
 
