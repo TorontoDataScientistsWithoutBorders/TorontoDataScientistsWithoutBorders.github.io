@@ -12,7 +12,15 @@ author: Yue
 # Topic Outline
 ___
 
-1. Why Simulation Methods and When
+1. Bayesian VS. Frequentist Perspective on Interpretation of Probability
+---
+
+* **Frequentist:** long term frequency of event happening in recurring experiment
+
+* **Bayesian:** a measure of belief in confidence about an event happening 
+
+
+2. Why Simulation Methods and When
 ---
 * (1) Simulation versus Asymptotic Assumed Optimization Methods
 
@@ -28,7 +36,7 @@ ___
   - Resampling: bootstrap, jacknife, permutation
 
 
-2. Non-parametric Bayesian versus MCMC
+3. Non-parametric Bayesian versus MCMC
 ---
 
 # Resampling
