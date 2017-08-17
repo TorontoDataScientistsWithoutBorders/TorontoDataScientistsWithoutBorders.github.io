@@ -19,6 +19,7 @@ author: Yue
 * **Bayesian:** a measure of belief in confidence about an event happening
   - This belief is based on individuals and different observers may come out different belief
   - Individuals' different belief do not change what the outcome will come out to be
+  - Prior Probability
 
 
 2. Why Simulation Methods and When
