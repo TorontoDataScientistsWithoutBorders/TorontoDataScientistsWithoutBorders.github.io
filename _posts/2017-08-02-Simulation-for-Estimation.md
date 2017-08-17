@@ -10,7 +10,6 @@ author: Yue
 ---
 
 # Topic Outline
-___
 
 1. Bayesian VS. Frequentist Perspective on Interpretation of Probability
 ---
