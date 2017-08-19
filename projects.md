@@ -33,10 +33,15 @@ Existing Projects
   Patrick (DATA SCIENCE AD ANAYSIS) : step 2 - automatic streaming of 311 json from city of toronto website
   
   Anna : step 2 for tweets, 3, 4 
+  
+  Martin: Step 2 for tweets 
+  
+  Holly: Step 4
   ```
   * teammate: 
   * steps/stages: 
-    (1) build mongodb db hosted on the cloud for the background data, rent prices, house prices 
+  
+    (1) build mongodb db hosted on the cloud for the background data (), rent prices, house prices 
     
     (2) integrate (automatic streaming from 311 calls json format from website) + tweets (json format) into mongodb
     
@@ -45,6 +50,8 @@ Existing Projects
     (4) predictive model for election result and others/sentiment analysis/etc.  
     
   * capstone date:
+  
+    Step 1 + 2 : Capstone date - tentative Sep 30th
   * code base / project page:
   
 
