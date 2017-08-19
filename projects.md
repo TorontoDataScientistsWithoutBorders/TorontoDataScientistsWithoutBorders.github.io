@@ -37,6 +37,10 @@ Existing Projects
   Holly: Step 4
   ```
   * teammate: 
+  
+  * data sources:
+  
+    (1) background data - statscan 
   * steps/stages: 
   
     (1) build mongodb db hosted on the cloud for the background data (), rent prices, house prices 
