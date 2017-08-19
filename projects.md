@@ -23,14 +23,19 @@ or join
 Existing Projects
 ---
 
-1. build toronto election ward demo database 
+1. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
 
-  * project lead:
-  * teammate:
+  * project lead: Harriet,  Martin Koo, Holly
+  * teammate: 
+  * steps/stages: 
+    (1) build mongodb db hosted on the cloud for the background data, rent prices, house prices 
+    (2) integrate (automatic streaming from 311 calls json format) + tweets (json format) into mongodb
+    (3) make user interface on the mongodb for data visualization (python/d3.js)
+    (4) predictive model for election / 
   * capstone date:
   * code base / project page:
   
-2. automatic scraping tweets by election ward and store in database
+
 
 Jam Days 
 ---
