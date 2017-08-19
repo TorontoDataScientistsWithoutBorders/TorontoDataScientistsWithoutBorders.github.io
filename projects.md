@@ -36,11 +36,11 @@ Existing Projects
   
   Holly: Step 4
   ```
-  * teammate: 
   
   * data sources:
   
     (1) background data - statscan 
+    
   * steps/stages: 
   
     (1) build mongodb db hosted on the cloud for the background data (), rent prices, house prices 
@@ -54,7 +54,12 @@ Existing Projects
   * capstone date:
   
     Step 1 + 2 : Capstone date - tentative Sep 30th
+  
   * code base / project page:
+  
+  Issues:
+  
+    (1) find a free cloud hosted mondb db
   
 
 
