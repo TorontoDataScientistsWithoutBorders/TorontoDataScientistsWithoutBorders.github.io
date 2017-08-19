@@ -27,8 +27,6 @@ Existing Projects
 
   * project lead: 
   ``` Harriet,  
-  Martin Koo, 
-  Holly
   
   Patrick (DATA SCIENCE AD ANAYSIS) : step 2 - automatic streaming of 311 json from city of toronto website
   
