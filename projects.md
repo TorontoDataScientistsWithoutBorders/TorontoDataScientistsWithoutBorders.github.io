@@ -41,7 +41,9 @@ Existing Projects
     (4) predictive model for election result and others/sentiment analysis/etc.  
 
   * project lead: 
+  
   ``` 
+  
   Harriet,  
   
   Patrick (DATA SCIENCE AD ANAYSIS) : step 2 - automatic streaming of 311 json from city of toronto website
@@ -51,7 +53,9 @@ Existing Projects
   Martin: Step 2 for tweets 
   
   Holly: Step 4
+  
   ```
+    
     
   * capstone date:
   
@@ -70,10 +74,12 @@ Jam Days
 August 19, 2017:
 
 ```
+
 projects pitched:
  1. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
  2. driveless cars
  3. Kaggle image processing
+
 ```
 
 ### More Information
