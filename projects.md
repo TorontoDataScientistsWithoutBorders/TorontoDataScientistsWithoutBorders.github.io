@@ -127,6 +127,8 @@ project pitched:
 * project team: Harriet, Anna, Ayazhan Zhakhan, Ashraf Ghonaim
 * accompolishments:
   (a) inflow statscan census data into local mongodb
+  
+  ref: install mongodb on local windows: https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/
 
 ```
 
