@@ -118,8 +118,13 @@ project pitched:
 * slack channel
 * dropbox
 * project leads: Ayazhan Zhakhan, Ashraf Ghonaim, Raul Samayoa
+* accomplishments: 
 
 2. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
+
+* slack channel: https://torontods.slack.com/messages/G6S24FRT9/details/
+* GitHub repo
+* project team: Harriet, Anna, Ayazhan Zhakhan, Ashraf Ghonaim
 
 ```
 
