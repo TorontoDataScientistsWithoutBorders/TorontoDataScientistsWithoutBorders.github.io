@@ -25,7 +25,7 @@ Existing Projects
 
 1. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
 
-  * Integrated Application Goals to achieve for beneficiaries (real estate developers, small business owners, home finders/renters, city urban planning, city social service providers, MPs-election)
+  * #### Integrated Application Goals to achieve for beneficiaries (real estate developers, small business owners, home finders/renters, city urban planning, city social service providers, MPs-election)
     
     (1) identify business development opportunities to benefit real estate developers, small business owners to open business, home finders, home renters (factors include: rent increase rate, house price rate, building types)
     
@@ -37,11 +37,11 @@ Existing Projects
     
     (3) identify urban change: for urban planners , city officials
   
-  * data sources:
+  * #### data sources:
   
     (1) background data - statscan 
     
-  * steps/stages: 
+  * #### steps/stages: 
   
     (1) build mongodb db hosted on the cloud for the background data (), rent prices, house prices 
     
@@ -63,7 +63,7 @@ Existing Projects
     
     (4) predictive model for election result and others/sentiment analysis/etc.  
 
-  * project lead: 
+  * #### project lead: 
   
   ``` 
   
@@ -86,11 +86,11 @@ Existing Projects
   ```
     
     
-  * capstone date:
+  * #### capstone date:
   
     Step 1 + 2 : Capstone date - tentative Sep 30th
   
-  * code base / project page:
+  * #### code base / project page:
   
   Issues:
   
@@ -132,9 +132,15 @@ project pitched:
 * GitHub repo
 * project team: Harriet, Anna, Ayazhan Zhakhan, Ashraf Ghonaim
 * accompolishments:
+  
+  (a) scrape statscan census data
+  
+  Things to be done:
   (a) inflow statscan census data into local mongodb
   
   ref: install mongodb on local windows: https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/
+  
+  (b) migrate it into a cloud-hosted mongodb
 
 ```
 
