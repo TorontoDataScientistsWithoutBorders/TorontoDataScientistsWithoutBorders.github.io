@@ -105,6 +105,17 @@ projects pitched:
 
 ```
 
+August 19, 2017:
+
+```
+
+1. predictive model to identify terrorist groups responsible for an terrorist event
+
+* data source
+* GitHub repo
+
+```
+
 ### More Information
 
 Our list of past and future events can be found in our [meetup site](https://www.meetup.com/Toronto-Machine-Learning-Book-Club/).
