@@ -105,7 +105,7 @@ projects pitched:
 
 ```
 
-August 19, 2017:
+August 25, 2017:
 
 ```
 
