@@ -25,6 +25,17 @@ Existing Projects
 
 1. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
 
+  * Integrated Application Goals to achieve for beneficiaries (real estate developers, small business owners, home finders/renters, city urban planning, city social service providers, MPs-election)
+    
+    (1) identify business development opportunities to benefit real estate developers, small business owners to open business, home finders, home renters (factors include: rent increase rate, house price rate, building types)
+    
+    (2) identify the face/and changing face/service request needs of the election-ward and link it to election results to benefit MPs
+      - demographics, populatioin densities (demo factor): status quo and changing trend overtime
+      - economic factors: unemployment rate: status quo and changing trend overtime
+      - livelihood: 311 social service requests + tweets: status quo and chaning trend overtime
+      - crime rate: status quo and changing trend overtime
+    
+    (3) identify urban change: for urban planners , city officials
   
   * data sources:
   
@@ -38,7 +49,11 @@ Existing Projects
     
     **achieving:** Identify where different immigrant communities settle in GTA: (a) the status quo before the latest cencus (2) reflect the change over time (3) link it to change of election results if any + change in rent + change in house prices + change to social services request 
     
-    - 
+    - BeautifulSoup to scrape Stats Canada web site.
+    - integrate data for mapping: ggmaps
+    - integrated interactive map hosted on the cloud: explore bokeh or others
+    
+    Reference: http://benrifkind.github.io/Mapping-Stats-Canada-Data-with-R-part-1-of-3/
     
     ```
     
