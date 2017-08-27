@@ -117,6 +117,7 @@ project pitched:
 * GitHub repo
 * slack channel
 * dropbox
+* project leads: Ayazhan Zhakhan, Ashraf Ghonaim
 
 ```
 
