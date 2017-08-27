@@ -34,6 +34,12 @@ Existing Projects
   
     (1) build mongodb db hosted on the cloud for the background data (), rent prices, house prices 
     
+    ```
+    
+    **achieving:** where different immigrant communities settle in GTA
+    
+    ```
+    
     (2) integrate (automatic streaming from 311 calls json format from website) + tweets (json format) into mongodb
     
     (3) make user interface on the mongodb for data visualization (python/d3.js)
