@@ -109,10 +109,13 @@ August 19, 2017:
 
 ```
 
+project pitched:
+
 1. predictive model to identify terrorist groups responsible for an terrorist event
 
 * data source
 * GitHub repo
+* slack channel
 
 ```
 
