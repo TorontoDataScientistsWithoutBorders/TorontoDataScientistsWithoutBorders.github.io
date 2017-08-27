@@ -40,7 +40,9 @@ Existing Projects
   * #### data sources:
   
     (1) background data 
+        
         - statscan census
+        
         - (ward profiles toronto city)[(https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2394fe17e5648410VgnVCM10000071d60f89RCRD]
     
   * #### steps/stages: 
