@@ -119,6 +119,8 @@ project pitched:
 * dropbox
 * project leads: Ayazhan Zhakhan, Ashraf Ghonaim, Raul Samayoa
 
+2. build toronto election ward demo database (background data for people) + integrate activity/behavior data (automatic streaming of tweets and 311 calls (city of toronto open data)
+
 ```
 
 ### More Information
