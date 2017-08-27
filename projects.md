@@ -125,6 +125,8 @@ project pitched:
 * slack channel: https://torontods.slack.com/messages/G6S24FRT9/details/
 * GitHub repo
 * project team: Harriet, Anna, Ayazhan Zhakhan, Ashraf Ghonaim
+* accompolishments:
+  (a) inflow statscan census data into local mongodb
 
 ```
 
