@@ -36,7 +36,9 @@ Existing Projects
     
     ```
     
-    **achieving:** where different immigrant communities settle in GTA
+    **achieving:** Identify where different immigrant communities settle in GTA: (a) the status quo before the latest cencus (2) reflect the change over time (3) link it to change of election results if any + change in rent + change in house prices + change to social services request 
+    
+    - 
     
     ```
     
