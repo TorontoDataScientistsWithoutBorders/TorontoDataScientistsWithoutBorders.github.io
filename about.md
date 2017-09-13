@@ -36,7 +36,7 @@ Email to ask to join or speak.
 
 ----
 
-This blog was created using the (awersome) static site generator [Jekyll][jekyll], and it is base on the theme found [here][jekyll-new].
+This blog was created using the (awesome) static site generator [Jekyll][jekyll], and it is base on the theme found [here][jekyll-new].
 
 [jekyll-new]: https://github.com/jglovier/jekyll-new
 [jekyll]: http://jekyllrb.com/
