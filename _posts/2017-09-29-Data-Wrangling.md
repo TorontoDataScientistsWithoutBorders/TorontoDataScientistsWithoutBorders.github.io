@@ -9,4 +9,4 @@ Python
 
 ### Woring with time
 
-The Epoch in UNIX system is `January 1st, 1970`
+The Epoch in UNIX system is `January 1st, 1970` midnight. On other systems use the command `time.gmtime(0)` to find out to discover the date of the Epoch.
