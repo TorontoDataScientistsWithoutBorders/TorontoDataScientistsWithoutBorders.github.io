@@ -96,9 +96,21 @@ Existing Projects
   
   * #### code base / project page:
   
-  Issues:
+  * #### To-do Issues:
   
     (1) find a free cloud hosted mondb db
+    
+    (2) get a list of issues/topics for sraped tweets: 
+    
+      - use help of news report website
+      
+      - generate keywords for filter tweets
+      
+      
+      
+      
+      
+      
   
 
 
